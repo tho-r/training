@@ -27,3 +27,5 @@ l1 = ['def', 'de', 'fgh']
 l2 = ['de', 'lmn', 'fgh']
 
 print(matchingstrings(l1, l2))
+
+# editei no pycharm e mandei pro git vai todo mundo toma no cu
