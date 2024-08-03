@@ -6,7 +6,6 @@ def contadorlista(lista):
             dihct[i] += 1
         else:
             dihct[i] = 1
-
     return dihct
 
 
